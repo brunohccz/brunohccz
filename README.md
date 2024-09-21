@@ -1,6 +1,5 @@
 <h2> Hi, I'm Bruno Cerciliar!</h2>
 <img align='right' src="https://media.giphy.com/media/0zQx7adhAaxYeqsZQ0/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.fluencytv.com/">Fluency Academy </a><img src="https://media.giphy.com/media/sFMDqop2ku4M0/giphy.gif" width="30"></p>
 
 [![Linkedin: Bruno Cerciliar](https://img.shields.io/badge/-Bruno%20Cerciliar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-cerciliar/)](https://www.linkedin.com/in/bruno-cerciliar/)
 [![GitHub Bruno Cerciliar](https://img.shields.io/github/followers/brunohccz?label=follow&style=social)](https://github.com/brunohccz)
@@ -16,5 +15,3 @@ const bruno = {
   love: 'My daughter Yanka... and very much COFFEEE!!!'
 }
 ```
-
-<em><b>Web, Cloud and Coffee = :heart:</em>
